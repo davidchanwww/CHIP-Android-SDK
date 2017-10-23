@@ -6,7 +6,7 @@
         android:id="@+id/topTV"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="COJI SDK Page"
+        android:text="CHIP SDK Page"
         android:textAlignment="center"
         android:textSize="30dp"
         android:layout_marginTop="20dp"
